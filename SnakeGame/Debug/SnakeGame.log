@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Game.cpp(71,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  SnakeGame.vcxproj -> C:\Users\19281\source\repos\SnakeGame\Debug\SnakeGame.exe

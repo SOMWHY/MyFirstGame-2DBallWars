@@ -1,0 +1,49 @@
+﻿  Bullet.cpp
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Bullet.cpp(23,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Enemy.cpp
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Enemy.cpp(5,11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Enemy.cpp(7,24): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Enemy.cpp(7,24): warning C4309: 'argument': truncation of constant value
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Enemy.cpp(28,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Enemy.cpp(37,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Enemy.cpp(45,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Enemy.cpp(45,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Enemy.cpp(57,33): warning C4305: 'argument': truncation from 'int' to 'sf::Uint8'
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Enemy.cpp(57,33): warning C4309: 'argument': truncation of constant value
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Enemy.cpp(58,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Game.cpp(71,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  main.cpp
+  Player.cpp
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Player.cpp(25,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Player.cpp(54,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Player.cpp(54,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Player.cpp(56,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Player.cpp(56,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\19281\source\repos\SnakeGame\SnakeGame\Player.cpp(67,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Score.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 244 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SnakeGame.vcxproj -> C:\Users\19281\source\repos\SnakeGame\Release\SnakeGame.exe
